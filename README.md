@@ -22,7 +22,7 @@ This repository is designed for people who want to:
 
 ```text
 .
-├── OpenClaw_Colab_Starter_V1.ipynb
+├── OpenClaw_Colab_Starter.ipynb
 ├── README.md
 ├── COLAB_FIRST_RUN_GUIDE.md
 └── .gitignore
@@ -140,18 +140,10 @@ Always keep sensitive values in **Colab Secrets**.
 - `google-colab`
 - `colab`
 - `openai`
-- `telegram-bot`
+- `telegrambot`
 - `ai-agent`
 - `llm`
 - `python`
-
----
-
-## Suggested first commit message
-
-```bash
-init: add GitHub-safe OpenClaw Colab starter with OpenAI defaults
-```
 
 ---
 
