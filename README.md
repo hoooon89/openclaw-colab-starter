@@ -2,6 +2,8 @@
 
 A public **Google Colab starter notebook** for running OpenClaw with **OpenAI defaults**, **Telegram pairing**, and **GitHub-safe secret handling**.
 
+![OpenClaw Colab screenshot](assets/openclaw-colab-screenshot.png)
+
 This repository is designed for people who want to:
 - run OpenClaw quickly on Google Colab
 - avoid hardcoded secrets in a public notebook
