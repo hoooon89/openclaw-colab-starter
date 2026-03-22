@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Secrets / local config
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# OpenClaw runtime / state
+openclaw_data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup archives
+*.tar.gz
+*.tgz
+*.zip
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
