@@ -134,31 +134,6 @@ Always keep sensitive values in **Colab Secrets**.
 
 ---
 
-## Suggested GitHub topics
-
-- `openclaw`
-- `google-colab`
-- `colab`
-- `openai`
-- `telegrambot`
-- `ai-agent`
-- `llm`
-- `python`
-
----
-
-## Notes
-
-This repository is optimized for:
-- quick testing
-- pairing flow validation
-- public GitHub sharing
-- Colab-based experimentation
-
-For long-running or production-like operation, a local server, SBC, VM, or GPU server may be a better fit than Colab.
-
----
-
 ## Related file
 
 For a step-by-step setup walkthrough, see:
